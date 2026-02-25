@@ -1,0 +1,1 @@
+"""Shop Counter package."""
